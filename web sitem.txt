@@ -3,3 +3,4 @@ bu dosyada degisiklik yaptım
 
 
 conflict degisiklik-1
+conflict degisiklik 2
